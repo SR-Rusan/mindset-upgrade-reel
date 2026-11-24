@@ -1,0 +1,86 @@
+[
+  {
+    "id": "vo_1",
+    "text": "AI isn't making you less capable.",
+    "target_start": 1.1,
+    "file": "~/Documents/Google anti-gravity projects/mindset_upgrade_reel/audio/vo_1.mp3",
+    "duration": 2.26
+  },
+  {
+    "id": "vo_2a",
+    "text": "For most people, the problem isn't a lack of time.",
+    "target_start": 3.3,
+    "file": "~/Documents/Google anti-gravity projects/mindset_upgrade_reel/audio/vo_2a.mp3",
+    "duration": 2.78
+  },
+  {
+    "id": "vo_2b",
+    "text": "It's a lack of leverage.",
+    "target_start": 5.7,
+    "file": "~/Documents/Google anti-gravity projects/mindset_upgrade_reel/audio/vo_2b.mp3",
+    "duration": 1.78
+  },
+  {
+    "id": "vo_3",
+    "text": "AI gives one person access to capabilities that once required entire teams.",
+    "target_start": 7.3,
+    "file": "~/Documents/Google anti-gravity projects/mindset_upgrade_reel/audio/vo_3.mp3",
+    "duration": 4.32
+  },
+  {
+    "id": "vo_4a",
+    "text": "The real shift happens when you stop asking AI to replace your effort...",
+    "target_start": 11.8,
+    "file": "~/Documents/Google anti-gravity projects/mindset_upgrade_reel/audio/vo_4a.mp3",
+    "duration": 3.5
+  },
+  {
+    "id": "vo_4b",
+    "text": "...and start using it to expand your ability.",
+    "target_start": 14.8,
+    "file": "~/Documents/Google anti-gravity projects/mindset_upgrade_reel/audio/vo_4b.mp3",
+    "duration": 2.47
+  },
+  {
+    "id": "vo_5a",
+    "text": "An idea can become a plan.",
+    "target_start": 17.1,
+    "file": "~/Documents/Google anti-gravity projects/mindset_upgrade_reel/audio/vo_5a.mp3",
+    "duration": 1.97
+  },
+  {
+    "id": "vo_5b",
+    "text": "A plan can become action.",
+    "target_start": 18.8,
+    "file": "~/Documents/Google anti-gravity projects/mindset_upgrade_reel/audio/vo_5b.mp3",
+    "duration": 1.87
+  },
+  {
+    "id": "vo_5c",
+    "text": "And action can become output, faster than ever before.",
+    "target_start": 20.4,
+    "file": "~/Documents/Google anti-gravity projects/mindset_upgrade_reel/audio/vo_5c.mp3",
+    "duration": 3.05
+  },
+  {
+    "id": "vo_6a",
+    "text": "The advantage won't come from simply using AI.",
+    "target_start": 23.0,
+    "file": "~/Documents/Google anti-gravity projects/mindset_upgrade_reel/audio/vo_6a.mp3",
+    "duration": 2.69
+  },
+  {
+    "id": "vo_6b",
+    "text": "It will come from learning how to think with it.",
+    "target_start": 25.1,
+    "file": "~/Documents/Google anti-gravity projects/mindset_upgrade_reel/audio/vo_6b.mp3",
+    "duration": 2.35
+  },
+  {
+    "id": "vo_7",
+    "text": "Your mindset is the real upgrade.",
+    "target_start": 28.0,
+    "file": "~/Documents/Google anti-gravity projects/mindset_upgrade_reel/audio/vo_7.mp3",
+    "duration": 2.21
+  }
+]
